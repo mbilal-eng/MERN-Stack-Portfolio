@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with Next.js 16, showcasing my work
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://your-portfolio-url.com) <!-- Replace with your actual deployment URL -->
+[View Live Portfolio](https://mbilal-dev.netlify.app/) <!-- Replace with your actual deployment URL -->
 
 ## ✨ Features
 
