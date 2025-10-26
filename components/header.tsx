@@ -17,7 +17,7 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 bg-background/80 backdrop-blur-md border-b border-border">
       <nav className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex items-center justify-between">
-        <div className="text-2xl font-bold text-primary">MB</div>
+        <div className="text-2xl font-bold text-primary">{"<MB/>"}</div>
 
         {/* Desktop Navigation */}
         <div className="hidden md:flex gap-8">

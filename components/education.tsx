@@ -12,6 +12,12 @@ export function Education() {
       period: "2020 - 2022",
       details: "Percentage: 75% / 100%",
     },
+    {
+      degree: "Matriculation in Computer Science",
+      institution: "MH Grammar Secondary School",
+      period: "2018 - 2020",
+      details: "Percentage: 79% / 100%",
+    },
   ]
 
   return (

@@ -14,7 +14,7 @@ export function Hero() {
           }}
         />
         {/* Dark overlay to ensure text readability */}
-        <div className="absolute inset-0 bg-background/70" />
+        <div className="absolute inset-0 bg-background/50" />
 
         {/* Gradient background */}
         <div className="absolute inset-0 bg-gradient-to-br from-background via-background to-accent/5" />
@@ -42,10 +42,10 @@ export function Hero() {
 
         {/* Geometric lines */}
         
-        <svg className="absolute inset-0 w-full h-full opacity-5" preserveAspectRatio="none">
+        {/* <svg className="absolute inset-0 w-full h-full opacity-5" preserveAspectRatio="none">
           <line x1="0" y1="0" x2="100%" y2="100%" stroke="currentColor" strokeWidth="1" />
           <line x1="100%" y1="0" x2="0" y2="100%" stroke="currentColor" strokeWidth="1" />
-        </svg>
+        </svg> */}
       </div>
 
       {/* Content */}

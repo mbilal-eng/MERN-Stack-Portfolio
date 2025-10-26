@@ -12,7 +12,7 @@ export function Projects() {
         "An innovative English learning mobile app that uses gamification to make learning fun and easy. Built with React Native and integrated with Firebase for real-time data and push notifications.",
       technologies: ["React Native", "Firebase", "Node.js"],
       link: "#",
-      image: "/english-learning-app-with-games-and-interactive-le.jpg",
+      image: "/Parrotix - Feature Image.png",
     },
     {
       title: "Multi-Tenant E-commerce Platform",
@@ -20,7 +20,7 @@ export function Projects() {
         "A comprehensive e-commerce platform allowing users to create their own shops with custom domains and monthly subscriptions. Features role-based access control for Super Admin, Shop Owner, and Customer.",
       technologies: ["MERN Stack", "JWT Auth", "Stripe"],
       link: "https://www.framistan.store/",
-      image: "/e-commerce-platform-with-multiple-shops-and-custom.jpg",
+      image: "/multi-tenant-ecommerce.png",
     },
     {
       title: "Multilingual Chat Application",
@@ -44,7 +44,7 @@ export function Projects() {
         "Web application where users can watch trailers and view IMDb ratings using the TMDB API. Features responsive design and smooth user experience.",
       technologies: ["React.js", "TMDB API", "Tailwind CSS"],
       link: "#",
-      image: "/movie-trailer-platform-with-imdb-ratings.jpg",
+      image: "/movix.png",
     },
     {
       title: "ShortenURL - URL Shortener",
@@ -52,7 +52,7 @@ export function Projects() {
         "URL shortening service that converts long URLs into short, shareable links with comprehensive visit analytics and tracking.",
       technologies: ["MERN Stack", "Analytics"],
       link: "#",
-      image: "/url-shortener-with-analytics-and-tracking-dashboar.jpg",
+      image: "/shorten-url.png",
     },
   ]
 
