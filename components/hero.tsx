@@ -10,7 +10,7 @@ export function Hero() {
           className="absolute inset-0 bg-cover bg-center bg-no-repeat"
           style={{
             backgroundImage:
-              "url('https://static.vecteezy.com/system/resources/previews/047/020/330/non_2x/technology-background-abstract-technology-with-line-digital-color-dot-hi-tech-technological-for-web-banner-background-object-vector.jpg')",
+              "/technology-background.jpg",
           }}
         />
         {/* Dark overlay to ensure text readability */}
@@ -67,7 +67,7 @@ export function Hero() {
           <Button
             size="lg"
             variant="outline"
-            onClick={() => window.open("https://drive.google.com/file/d/1example/view", "_blank")}
+            onClick={() => window.open("Muhammad Bilal - MERN Stack Developer.pdf", "_blank")}
           >
             Download Resume
           </Button>

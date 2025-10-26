@@ -9,14 +9,14 @@ export function Skills() {
       icon: Code2,
       color: "from-blue-500 to-cyan-500",
       skills: [
-        { name: "React.js", level: 95 },
-        { name: "Next.js", level: 90 },
-        { name: "TypeScript", level: 88 },
-        { name: "Tailwind CSS", level: 92 },
-        { name: "Redux", level: 85 },
-        { name: "JavaScript (ES6+)", level: 95 },
-        { name: "React Native", level: 80 },
-        { name: "HTML5 & CSS3", level: 93 },
+        { name: "React.js", level: 65 },
+        { name: "Next.js", level: 60 },
+        { name: "TypeScript", level: 55 },
+        { name: "Tailwind CSS", level: 70 },
+        { name: "Redux", level: 55 },
+        { name: "JavaScript (ES6+)", level: 75 },
+        { name: "React Native", level: 50 },
+        { name: "HTML5 & CSS3", level: 80 },
       ],
     },
     {
@@ -24,10 +24,10 @@ export function Skills() {
       icon: Wrench,
       color: "from-purple-500 to-pink-500",
       skills: [
-        { name: "Node.js", level: 90 },
-        { name: "Express.js", level: 88 },
-        { name: "Nest.js", level: 82 },
-        { name: "REST APIs", level: 92 },
+        { name: "Node.js", level: 65 },
+        { name: "Express.js", level: 60 },
+        { name: "Nest.js", level: 45 },
+        { name: "REST APIs", level: 70 },
       ],
     },
     {
@@ -35,10 +35,10 @@ export function Skills() {
       icon: Database,
       color: "from-green-500 to-emerald-500",
       skills: [
-        { name: "MongoDB", level: 88 },
-        { name: "PostgreSQL", level: 85 },
-        { name: "SQL", level: 87 },
-        { name: "Firebase", level: 80 },
+        { name: "MongoDB", level: 65 },
+        { name: "PostgreSQL", level: 55 },
+        { name: "SQL", level: 60 },
+        { name: "Firebase", level: 60 },
       ],
     },
     {
@@ -46,13 +46,14 @@ export function Skills() {
       icon: Smartphone,
       color: "from-orange-500 to-red-500",
       skills: [
-        { name: "Git & GitHub", level: 92 },
-        { name: "Docker", level: 80 },
-        { name: "Postman", level: 88 },
-        { name: "JWT Auth", level: 90 },
+        { name: "Git & GitHub", level: 75 },
+        { name: "Docker", level: 45 },
+        { name: "Postman", level: 70 },
+        { name: "JWT Auth", level: 65 },
       ],
     },
-  ]
+  ];
+  
 
   return (
     <section id="skills" className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-background to-background/50">

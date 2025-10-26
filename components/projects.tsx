@@ -23,6 +23,29 @@ export function Projects() {
       image: "/multi-tenant-ecommerce.png",
     },
     {
+      title: "Movix - Movie Trailer Platform",
+      description:
+        "Web application where users can watch trailers and view IMDb ratings using the TMDB API. Features responsive design and smooth user experience.",
+      technologies: ["React.js", "TMDB API", "Tailwind CSS"],
+      link: "https://movix-eta.vercel.app/",
+      image: "/movix.png",
+    },
+    {
+      title: "ShortenURL - URL Shortener",
+      description:
+        "URL shortening service that converts long URLs into short, shareable links with comprehensive visit analytics and tracking.",
+      technologies: ["MERN Stack", "Analytics"],
+      link: "https://github.com/Muhammad-Bilal01/Shorten-Url",
+      image: "/shorten-url.png",
+    },
+    {
+      title: "Resumer - Resume Builder",
+      description:
+        "Resume builder that allows users to create and customize their resume with ease. Features a drag and drop interface and a variety of templates to choose from.",
+      technologies: ["React.js", "Tailwind CSS", "React Hook Form"],
+      link: "https://resume-builder-9zvh.vercel.app/resume-builder",
+      image: "/resumer.png",
+    },{
       title: "Multilingual Chat Application",
       description:
         "Real-time chat application with integrated translation feature, allowing users to communicate in their preferred languages seamlessly.",
@@ -37,22 +60,6 @@ export function Projects() {
       technologies: ["React.js", "Chart.js", "REST API"],
       link: "#",
       image: "/football-live-scores-and-analytics-dashboard-with-.jpg",
-    },
-    {
-      title: "Movix - Movie Trailer Platform",
-      description:
-        "Web application where users can watch trailers and view IMDb ratings using the TMDB API. Features responsive design and smooth user experience.",
-      technologies: ["React.js", "TMDB API", "Tailwind CSS"],
-      link: "#",
-      image: "/movix.png",
-    },
-    {
-      title: "ShortenURL - URL Shortener",
-      description:
-        "URL shortening service that converts long URLs into short, shareable links with comprehensive visit analytics and tracking.",
-      technologies: ["MERN Stack", "Analytics"],
-      link: "#",
-      image: "/shorten-url.png",
     },
   ]
 
