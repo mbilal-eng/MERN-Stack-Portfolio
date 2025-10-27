@@ -6,7 +6,7 @@ export function About() {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div>
             <img
-              src="/professional-developer-portrait.jpg"
+              src="/Muhammad Bilal.png"
               alt="Muhammad Bilal"
               className="rounded-lg w-full aspect-square object-cover"
             />
